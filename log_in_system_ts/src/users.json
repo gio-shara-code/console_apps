@@ -1,0 +1,16 @@
+[
+    {
+        "id": "bf00e526-8ee4-491c-9e13-836935b94cb1",
+        "email": "giorgi@gmail.com",
+        "password": "giorgi",
+        "createdOn": 1622305006494,
+        "birthDate": "05/11/1998"
+    },
+    {
+        "id": "549424b8-6880-447f-a57d-4053e046611a",
+        "email": "giorgi@gmail.cc",
+        "password": "1998",
+        "createdOn": 1622305699591,
+        "birthDate": "05/11/1998"
+    }
+]

@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "module": "CommonJS",
+        "removeComments": true,
+        "target": "es2017",
+        "outDir": "dest",
+        "moduleResolution": "Node",
+        "allowJs": true,
+        "sourceMap": true,
+        "resolveJsonModule": true
+    },
+    "include": ["./src/**/*"]
+}

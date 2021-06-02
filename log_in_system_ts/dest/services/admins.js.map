@@ -1,0 +1,1 @@
+{"version":3,"file":"admins.js","sourceRoot":"","sources":["../../src/services/admins.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,MAAM,MAAM,gBAAgB,CAAA;AAExC,MAAM,CAAC,MAAM,cAAc,GAAG,CAAC,KAAa,EAAE,EAAE;IAC5C,OAAO,MAAM,CAAC,MAAM,CAAC,CAAC,IAAI,EAAE,EAAE,CAAC,IAAI,CAAC,KAAK,KAAK,KAAK,CAAC,CAAC,CAAC,CAAC,CAAA;AAC3D,CAAC,CAAA"}
